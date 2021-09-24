@@ -1,0 +1,23 @@
+Command Line Registration & Login:
+Register
+Login
+Registration:
+Please Enter Name: Mansoor
+Please Enter Email: Mansoor@code.in
+JSON - Store an array of Object: [{name: "name", email:"email", password:"Password", id:"id", createdOn:"creation date"}]
+On registration, check if the user already exists - "Already Registered"
+Enter Password: ******* (use encryption)
+Confirm Password: ********
+When both password matches- append the new array into the existing array - Show - Registration Success
+Login:
+Enter your email: Mansoor@code.in
+Enter your Password: ********
+Check the user's array - if the email doesn't exist, send message - User doesn't exist
+Check if the Password doesn't match - Password incorrect
+If Password matches - Login Success
+
+** Use Async Await**
+
+password deletion
+email address validation - console should continue
+confirm password - should not be there in login function
