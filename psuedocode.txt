@@ -18,6 +18,6 @@ If Password matches - Login Success
 
 ** Use Async Await**
 
-password deletion
-email address validation - console should continue
-confirm password - should not be there in login function
+password deletion - while backspace is still not working, I've found another way to handle this.
+email address validation - console should continue - Fixed
+confirm password - should not be there in login function - fixed
